@@ -1,4 +1,5 @@
 # List of embeddings used in this repository 
+source for other possible choices http://vectors.nlpl.eu/repository/
 
 ## Emedding for Italian
 1. Embedding used in EVALITA 2018 for Hate Speech Detection 
